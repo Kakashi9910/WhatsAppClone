@@ -20,7 +20,7 @@ border-left:1px solid rgba(0,0,0,0.14);
 
 `
 const dialogStyled = {
-    height: '90%',
+    height: '95%',
     width: '96%',
     margin: '20px',
     boxShadow: 'none',
